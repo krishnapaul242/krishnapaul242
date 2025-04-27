@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 🌱 I’m currently learning MERN ⚡⚡⚡
 ### 😄 Check out my work...
 
 <!--
